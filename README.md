@@ -1,2 +1,2 @@
 # Evaluation-of-autoencoder-models-in-NIDS
-Autoencoder model for packet level network intrusion detection systems
+Empirical evaluation of different autoencoder models for packet level network intrusion detection systems
